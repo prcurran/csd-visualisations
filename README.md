@@ -10,7 +10,7 @@ This repository contains code to visualising this data for various projects.
 
 This is an interactive heatmap visualisation of the periodic created with the Bokeh library. Elements are coloured by their frequency of occurrence in the CSD. For each entry in the CSD, the number of atoms in the molecular formula were counted. 
 
-![Periodic Table](https://github.com/prcurran/csd-visualisations/periodic_table/periodic_table.png)
+![Periodic Table](https://github.com/prcurran/csd-visualisations/blob/master/periodic_table/periodic_table.png)
 
 A live version of this visualisation is presented [here!](https://www.ccdc.cam.ac.uk/Community/educationalresources/PeriodicTable)
 
@@ -19,3 +19,4 @@ A live version of this visualisation is presented [here!](https://www.ccdc.cam.a
 
 
 ## 3) 3-Dimensionality 
+
