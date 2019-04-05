@@ -1,4 +1,4 @@
-# Data Visualisation Code for the CSD
+# Visualising Data in the CSD
 
 "The Cambridge Structural Database (CSD) contains a complete record of all published organic and metal-organic small-molecule crystal structures. The database has been in operation for over 50 years and continues to be the primary means of sharing structural chemistry data and knowledge across disciplines."
 
