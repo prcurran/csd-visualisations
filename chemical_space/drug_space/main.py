@@ -48,7 +48,7 @@ def update():
 year = Slider(title="Min", start=1940, end=2020, value=1950, step=1)
 source = ColumnDataSource(data=dict(x=[], y=[], counts=[]))
 
-df = pd.read_csv('C:/Users/pcurran/Desktop/Diversity/merge.csv')
+df = pd.read_csv('Z:/github_packages/csd_visualisation/csd-visualisations/chemical_space/data/merge.csv')
 df = df.loc[df['subset'] == 'drug']
 bins = hexbin(df.x, df.y, 0.08)
 #print bins

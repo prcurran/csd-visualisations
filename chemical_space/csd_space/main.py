@@ -35,7 +35,7 @@ def update():
         colour=[colour_dic[a] for a in df['subset']]
     )
 
-df = pd.read_csv('merge.csv')
+df = pd.read_csv('Z:/github_packages/csd_visualisation/csd-visualisations/chemical_space/data/merge.csv')
 
 # Create Input controls
 min_year = Slider(title="Min", start=1940, end=2019, value=2016, step=1)
